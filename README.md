@@ -45,7 +45,7 @@ Deploy with an entry fee (1 ETH).
 ```
 ## 4. 🦊 Connect MetaMask to Anvil
 ```bash
-Open MetaMask and import an Anvil account:
+Open MetaMask and import an Anvil account.
 ```
 ## 5. Update Frontend with Contract Address
 ```bash
