@@ -60,4 +60,4 @@ After multiple entries, use the owner account to call Pick Winner.
 ## ✅ Done!
 You can now see the winner chosen and the contract balance transferred accordingly.
 
-![Video Demo](https://github.com/vikasrai11/Lottery-DApp/blob/main/lottery.mp4)
+![Video Demo](https://github.com/vikasrai11/Lottery-DApp/blob/61fa1cec1e3fc9355379dc235960c4a8c8ef76c6/lottery.mp4)
